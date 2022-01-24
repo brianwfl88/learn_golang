@@ -12,4 +12,4 @@ Following https://go.dev/doc/tutorial/run-a-test
 8. Use go's testing library to log the failed test into console
 9. Run `go test` and view the test results
 10. Modify `greetings.Hello` and omit the `name` parameter
-10. Run `go test` again and view the failed result
+11. Run `go test` again and view the failed result
